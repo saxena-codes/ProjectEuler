@@ -6,7 +6,7 @@ What is the smallest positive number that is evenly divisible by all of the numb
 """
 
 """
-# Lengthy Approach
+# Lengthy Approach - and how it should actually work - taking too much time.
 
 def divisibility(dividend, divisor):
     output = False
@@ -36,6 +36,18 @@ while True:
     print(count)
 """
 
+"""
+How I solved it- 
+1. Multiplied all the prime numbers and made a function which checks if the
+all numbers from 1 to 20 diuvides the multiplication.
+
+2. No removed the lower numbers such as 2 and 3 for as if numbers like 4, 8 and 9 are dividing the multiplication,
+so they will definitely devide the number.
+
+3. Finally with lot of iterations found a number which is divisible by all the number from 1 to 20.
+"""
+
+# not actually prime numbers - started from prime number
 prime_numbers = (5,7,9,11,13,16,17,19)
 
 #multiplication of all prime number till 20
