@@ -19,6 +19,8 @@ It'll be a great experience if you try to solve it yourself.
 | 5. | [Problem 5 - Smallest Multiple](https://projecteuler.net/problem=5) | [Answer](Problem5-Smallest-Multiple.py) |
 | 6. | [Problem 6 - Sum Square Difference](https://projecteuler.net/problem=6) | [Answer](Problem6-Sum-Square-Difference.py) |
 | 7. | [Problem 7 - 10001st Prime](https://projecteuler.net/problem=7) | [Answer](Problem7-10001st-Prime.py) |
+| 8. | [Problem 8 - Largest Product in a Series](https://projecteuler.net/problem=8) | [Answer](Problem8-Largest-Product-in-a-Series.py) |
+| 9. | [Problem 9 - Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Answer](Problem9-Special-Pythagorean-Triplet.py) |
 
 ---
 
