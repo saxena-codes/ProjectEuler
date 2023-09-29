@@ -23,6 +23,7 @@ It'll be a great experience if you try to solve it yourself.
 | 9. | [Problem 9 - Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Answer](Problem9-Special-Pythagorean-Triplet.py) |
 | 10. | [Problem 10 - Summation of Primes](https://projecteuler.net/problem=10) | [Answer](Problem10-Summation-of-Primes.py) |
 | 11. | [Problem 11 - Largest Product in a Grid](https://projecteuler.net/problem=11) | [Answer](Problem11-Largest-Product-in-a-Grid.py) |
+| 12. | [Problem 12 - Highly Divisible Traingular Number](https://projecteuler.net/problem=12) | [Answer](Problem12-Highly-Divisible-Traingular-Number.py) |
 
 ---
 
