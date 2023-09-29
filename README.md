@@ -21,6 +21,8 @@ It'll be a great experience if you try to solve it yourself.
 | 7. | [Problem 7 - 10001st Prime](https://projecteuler.net/problem=7) | [Answer](Problem7-10001st-Prime.py) |
 | 8. | [Problem 8 - Largest Product in a Series](https://projecteuler.net/problem=8) | [Answer](Problem8-Largest-Product-in-a-Series.py) |
 | 9. | [Problem 9 - Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Answer](Problem9-Special-Pythagorean-Triplet.py) |
+| 10. | [Problem 10 - Summation of Primes](https://projecteuler.net/problem=10) | [Answer](Problem10-Summation-of-Primes.py) |
+| 11. | [Problem 11 - Largest Product in a Grid](https://projecteuler.net/problem=11) | [Answer](Problem11-Largest-Product-in-a-Grid.py) |
 
 ---
 
