@@ -28,6 +28,9 @@ It'll be a great experience if you try to solve it yourself.
 | 14. | [Problem 14 - Largest Collatz Sequence](https://projecteuler.net/problem=14) | [Answer](Problem14-Largest-Collatz-Sequence.py) |
 | 15. | [Problem 15 - Lattice Paths](https://projecteuler.net/problem=15) | [Answer](Problem15-Lattice-Paths.py) |
 | 16. | [Problem 16 - Power Digit Sum](https://projecteuler.net/problem=16) | [Answer](Problem16-Power-Digit-Sum.py) |
+| 17. | [Problem 17 - Number Letter Counts](https://projecteuler.net/problem=17) | [Answer](Problem17-Number-Letter-Counts.py) |
+| 18. | [Problem 18 - Maximum Path Sum I](https://projecteuler.net/problem=18) | [Answer](Problem18-Maximum-Path-Sum-I.py) |
+| 19. | [Problem 19 - Counting Sundays](https://projecteuler.net/problem=19) | [Answer](Problem19-Counting-Sundays.py) |
 
 ---
 
