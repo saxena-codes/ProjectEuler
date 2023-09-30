@@ -24,6 +24,10 @@ It'll be a great experience if you try to solve it yourself.
 | 10. | [Problem 10 - Summation of Primes](https://projecteuler.net/problem=10) | [Answer](Problem10-Summation-of-Primes.py) |
 | 11. | [Problem 11 - Largest Product in a Grid](https://projecteuler.net/problem=11) | [Answer](Problem11-Largest-Product-in-a-Grid.py) |
 | 12. | [Problem 12 - Highly Divisible Traingular Number](https://projecteuler.net/problem=12) | [Answer](Problem12-Highly-Divisible-Traingular-Number.py) |
+| 13. | [Problem 13 - Large Sum](https://projecteuler.net/problem=13) | [Answer](Problem13-Large-Sum.py) |
+| 14. | [Problem 14 - Largest Collatz Sequence](https://projecteuler.net/problem=14) | [Answer](Problem14-Largest-Collatz-Sequence.py) |
+| 15. | [Problem 15 - Lattice Paths](https://projecteuler.net/problem=15) | [Answer](Problem15-Lattice-Paths.py) |
+| 16. | [Problem 16 - Power Digit Sum](https://projecteuler.net/problem=16) | [Answer](Problem16-Power-Digit-Sum.py) |
 
 ---
 
