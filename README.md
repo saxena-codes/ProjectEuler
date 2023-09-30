@@ -31,6 +31,7 @@ It'll be a great experience if you try to solve it yourself.
 | 17. | [Problem 17 - Number Letter Counts](https://projecteuler.net/problem=17) | [Answer](Problem17-Number-Letter-Counts.py) |
 | 18. | [Problem 18 - Maximum Path Sum I](https://projecteuler.net/problem=18) | [Answer](Problem18-Maximum-Path-Sum-I.py) |
 | 19. | [Problem 19 - Counting Sundays](https://projecteuler.net/problem=19) | [Answer](Problem19-Counting-Sundays.py) |
+| 20. | [Problem 20 - Factorial Digit Sum](https://projecteuler.net/problem=20) | [Answer](Problem20-Factorial-Digit-Sum.py) |
 
 ---
 
