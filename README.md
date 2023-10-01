@@ -32,6 +32,7 @@ It'll be a great experience if you try to solve it yourself.
 | 18. | [Problem 18 - Maximum Path Sum I](https://projecteuler.net/problem=18) | [Answer](Problem-018-Maximum-Path-Sum-I.py) |
 | 19. | [Problem 19 - Counting Sundays](https://projecteuler.net/problem=19) | [Answer](Problem-019-Counting-Sundays.py) |
 | 20. | [Problem 20 - Factorial Digit Sum](https://projecteuler.net/problem=20) | [Answer](Problem-020-Factorial-Digit-Sum.py) |
+| 21. | [Problem 21 - Amicable Numbers](https://projecteuler.net/problem=21) | [Answer](Problem-021-Amicable-Numbers.py) |
 
 ---
 
