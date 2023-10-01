@@ -4,7 +4,7 @@ Problem 8 - Largest Product in a Series
 The four adjacent digits in the 1000-digit number that have the greatest product are 
 9 x 9 x 8 x 9 = 5832.
 
-(Series in Problem-008-Series.txt)
+(Series in Problem-0008-Series.txt)
 
 Find the thirteen adjacent digits in the 100-digit number that have the greatest product.
 What is the value of this product?
