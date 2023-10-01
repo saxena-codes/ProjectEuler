@@ -2,7 +2,7 @@
 Problem 13 - Large Sum
 
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-(Numbers in Problem13-Numbers.txt)
+(Numbers in Problem-013-Numbers.txt)
 """
 
 """
