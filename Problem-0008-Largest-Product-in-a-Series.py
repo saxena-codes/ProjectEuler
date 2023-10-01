@@ -10,7 +10,7 @@ Find the thirteen adjacent digits in the 100-digit number that have the greatest
 What is the value of this product?
 """
 from pathlib import Path
-path = Path('Problem8.txt')
+path = Path('Problem-0008-Series.txt')
 digits_1000 = path.read_text().strip()
 digits_1000 = digits_1000.replace("\n", "")
 digits_1000 = list(digits_1000)

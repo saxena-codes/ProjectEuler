@@ -12,7 +12,7 @@ Adding only first 12 digits of each number in order to get the answer.
 """
 # Reading Content
 from pathlib import Path
-path = Path("Problem13-Numbers.txt")
+path = Path("Problem-0013-Numbers.txt")
 numbers = path.read_text().strip()
 lines = numbers.splitlines()
 

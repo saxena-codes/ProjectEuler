@@ -39,7 +39,7 @@ I think you see where this is going.
 
 # Reading Content
 from pathlib import Path
-path = Path("Problem18-Traingle.txt")
+path = Path("Problem-0018-Traingle.txt")
 content = path.read_text().strip()
 lines = content.splitlines()
 

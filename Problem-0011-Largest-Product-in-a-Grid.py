@@ -20,7 +20,7 @@ The other complementary directions would evaluate to the same product by virtue 
 
 # Reading Content
 from pathlib import Path
-path = Path("Problem11-Grid.txt")
+path = Path("Problem-0011-Grid.txt")
 contents = path.read_text()
 lines = contents.splitlines()
 
