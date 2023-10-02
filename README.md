@@ -33,6 +33,8 @@ It'll be a great experience if you try to solve it yourself.
 | 19. | [Problem 19 - Counting Sundays](https://projecteuler.net/problem=19) | [Answer](Problem-0019-Counting-Sundays.py) |
 | 20. | [Problem 20 - Factorial Digit Sum](https://projecteuler.net/problem=20) | [Answer](Problem-0020-Factorial-Digit-Sum.py) |
 | 21. | [Problem 21 - Amicable Numbers](https://projecteuler.net/problem=21) | [Answer](Problem-0021-Amicable-Numbers.py) |
+| 22. | [Problem 22 - Names Scores](https://projecteuler.net/problem=22) | [Answer](Problem-0022-Names-Scores.py) |
+| 23. | [Problem 23 - Non-Abundant Sums](https://projecteuler.net/problem=23) | [Answer](Problem-0023-Non-Abundant-Sums.py) |
 
 ---
 
