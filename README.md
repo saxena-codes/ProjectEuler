@@ -35,6 +35,7 @@ It'll be a great experience if you try to solve it yourself.
 | 21. | [Problem 21 - Amicable Numbers](https://projecteuler.net/problem=21) | [Answer](Problem-0021-Amicable-Numbers.py) |
 | 22. | [Problem 22 - Names Scores](https://projecteuler.net/problem=22) | [Answer](Problem-0022-Names-Scores.py) |
 | 23. | [Problem 23 - Non-Abundant Sums](https://projecteuler.net/problem=23) | [Answer](Problem-0023-Non-Abundant-Sums.py) |
+| 24. | [Problem 24 - Lexicographic Permutations](https://projecteuler.net/problem=23) | [Answer](Problem-0024-Lexicographic-Permutations.py) |
 
 ---
 
